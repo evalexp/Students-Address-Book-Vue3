@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "code": "08193059",
+      "name": "周浩",
+      "sex": "男",
+      "phone": "198500131111",
+      "emailAddress": "1426652334@qq.com",
+      "major": "信息安全",
+      "age": 21,
+      "address": "重庆",
+      "date": "2000-05-22T16:00:00.000Z",
+      "editAvailable": false
+    },
+    {
+      "code": "12123",
+      "name": "123123",
+      "sex": "男",
+      "phone": "12561",
+      "emailAddress": "123",
+      "major": "计算机应用",
+      "age": 3,
+      "address": "",
+      "date": "2018-03-06T16:00:00.000Z",
+      "editAvailable": false
+    }
+  ]
+}
